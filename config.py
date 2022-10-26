@@ -1,3 +1,4 @@
+
 stands = {
     '0' : 'Star Platinum',
     '1' : 'The World',

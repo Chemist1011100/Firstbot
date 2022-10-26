@@ -20,7 +20,7 @@ from aiogram.dispatcher import Dispatcher
 from aiogram.utils import executor
 from aiogram.types import Message, CallbackQuery, InputMedia
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
-#WTF
+
 
 TOKEN = ('5399899287:AAE-apYTLr9JooW23NdAgdqV1NA-zBvCo4c')
 bot = Bot(token=TOKEN)
